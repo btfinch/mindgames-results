@@ -1,0 +1,314 @@
+model_name,total_games,avg_turns,wins,win_rate
+0823t1-Qwen3-8B-yt,83,5.27710843373494,0,0.0
+Track1_Model_20250924_1830,1,6.0,0,0.0
+Track1_Model_20250926_1358,1,5.0,0,0.0
+Track1_Model_20250925_1912,1,5.0,0,0.0
+Track1_Model_20250925_1537,1,1.0,0,0.0
+Track1_Model_20250925_1523,1,5.0,0,0.0
+Track1_Model_20250925_1400,1,4.0,0,0.0
+Track1_Model_20250925_1245,1,5.0,0,0.0
+Track1_Model_20250924_1851,8,4.125,0,0.0
+The-Boot,1,6.0,0,0.0
+USTCmafia-test3,1,1.0,0,0.0
+Tester v0.01,1,5.0,0,0.0
+Test_MifiaAgent_llama - Track 1,1,1.0,0,0.0
+Test_Human_Player,3,7.0,0,0.0
+Test LLM agent-xsss,3,2.6666666666666665,0,0.0
+TeamGPT-MG,2,5.0,0,0.0
+Team srsk-1729 qwen - Track 1,8,5.0,0,0.0
+T1-Qwen-Mini-V2,1,1.0,0,0.0
+Trial,2,2.5,0,0.0
+USTCmafia-test_noe,1,6.0,0,0.0
+RLGame-M-P-01,93,5.333333333333333,0,0.0
+ZeroR-Elite-Enhanced-v2,1,4.0,0,0.0
+ZeroR-SecretMafia-v3,5,4.6,0,0.0
+ZeroR-SecretMafia-v2-test,3,6.0,0,0.0
+ZeroR-SecretMafia-v2,82,5.158536585365853,0,0.0
+ZeroR-SecretMafia-Efficient-v4,15,6.866666666666666,0,0.0
+ZeroR-SecretMafia-Efficient-v2-Fixed,2,5.5,0,0.0
+ZeroR-SecretMafia-Efficient-v2,54,5.037037037037037,0,0.0
+ZeroR-SecretMafia-Efficient,18,5.444444444444445,0,0.0
+Vito-k2,1,5.0,0,0.0
+V1-GPT4o - Track 1,1,5.0,0,0.0
+Vito-ds_v31,5,5.6,0,0.0
+Vito-db_1_6,13,3.8461538461538463,0,0.0
+Vito-7,38,4.157894736842105,0,0.0
+Vito-1.3,19,3.210526315789474,0,0.0
+Vito-1.2,10,4.4,0,0.0
+Vito-1.1,9,2.7777777777777777,0,0.0
+Vito-1.0,18,4.277777777777778,0,0.0
+T1-Qwen-Mini-Complex-V4,1,5.0,0,0.0
+T1-Qwen-Mini-Complex-V3,1,15.0,0,0.0
+T1-Qwen-Mini-Complex-V2,1,5.0,0,0.0
+RLGame-finetune-v2,21,5.9523809523809526,0,0.0
+RLGame-ts-v3,16,3.75,0,0.0
+RLGame-ts-v2,21,3.619047619047619,0,0.0
+RLGame-ts-v1,58,4.0344827586206895,0,0.0
+RLGame-gpt-oss-20b,1,8.0,0,0.0
+RLGame-gd,25,5.56,0,0.0
+RLGame-ft,23,5.521739130434782,0,0.0
+RLGame-finetune-v3,3,7.666666666666667,0,0.0
+RLGame-finetune,6,5.833333333333333,0,0.0
+T1-New-Gemini-Akash-V1,7,5.0,0,0.0
+RLGame-RL-v1,50,5.26,0,0.0
+RLGame-RB-v1,47,5.787234042553192,0,0.0
+RLGame-M-P-07,2,5.0,0,0.0
+RLGame-M-P-06,9,5.222222222222222,0,0.0
+RLGame-M-P-05,1,2.0,0,0.0
+RLGame-M-P-04,4,5.0,0,0.0
+RLGame-M-P-03,23,4.869565217391305,0,0.0
+RLGame-ts-v4,6,4.833333333333333,0,0.0
+RLGame-ts-v5,14,4.928571428571429,0,0.0
+RLGame-ts-v6,14,5.428571428571429,0,0.0
+Rak.io - Track1 - v1 - LLAMA,1,2.0,0,0.0
+T1-Improved-Gemini-Akash-V1,4,4.5,0,0.0
+T1-Baseline-Qwen-Better-Akash-V3,1,5.0,0,0.0
+T1-Baseline-Qwen-Akash-V2,1,5.0,0,0.0
+T1-Base-Gemini-Complex-Akash-V1,4,5.25,0,0.0
+T1-Base-Gemini-Akash-V2,68,5.661764705882353,0,0.0
+T1-Base-Gemini-Akash-V1,314,5.464968152866242,0,0.0
+Social Deduction Track v4,26,4.923076923076923,0,0.0
+Social Deduction Track v2,55,5.2727272727272725,0,0.0
+Social Deduction Track,9,5.0,0,0.0
+Shocklab_Agent_v3,14,5.571428571428571,0,0.0
+Shocklab_Agent_v2,1,7.0,0,0.0
+Shocklab_Agent_v1,2,1.5,0,0.0
+RobustMafiaAgent-V3,5,5.0,0,0.0
+RobustMafiaAgent-Gemini-2.0-Flash-Lite,13,6.538461538461538,0,0.0
+Revac,19,5.421052631578948,0,0.0
+ZeroR-SecretMafia-v3.1,13,5.769230769230769,0,0.0
+ZeroR-SecretMafia-v3.2,4,3.5,0,0.0
+ZeroR-SecretMafia-v4,35,5.371428571428571,0,0.0
+martianlanternv6,7,3.857142857142857,0,0.0
+qwen/qwen-2.5-7b-instruct,2136,5.300093632958801,0,0.0
+openai/gpt-oss-120b,1596,5.107142857142857,0,0.0
+openai/gpt-4.1-nano,2192,4.911952554744525,0,0.0
+oonaoops,276,5.510869565217392,0,0.0
+moonshotai/kimi-k2,2026,5.245310957551826,0,0.0
+meta-llama/llama-4-scout,953,5.616998950682056,0,0.0
+meta-llama/llama-4-maverick,2614,5.374521805661821,0,0.0
+martianlanternv4,2,7.0,0,0.0
+m1_p6,3,6.666666666666667,0,0.0
+martianlanternv2,1,5.0,0,0.0
+martianlanternv1,7,5.0,0,0.0
+martianlantern_gemini_v1,1,1.0,0,0.0
+martianlantern,4,7.5,0,0.0
+m6_p6,23,6.6521739130434785,0,0.0
+m5_p5,64,5.515625,0,0.0
+m5_p1,3,8.333333333333334,0,0.0
+qwen/qwen-plus,1139,5.242317822651449,0,0.0
+qwen/qwen-turbo,2935,5.064395229982964,0,0.0
+qwen/qwen3-32b,33,4.121212121212121,0,0.0
+ratec_tr1,2,3.5,0,0.0
+ydy,2,2.0,0,0.0
+tungsten_007s,15,4.866666666666666,0,0.0
+tungsten_006,14,5.928571428571429,0,0.0
+tungsten_005,9,7.777777777777778,0,0.0
+tungsten_004,8,5.125,0,0.0
+tungsten_001,27,5.555555555555555,0,0.0
+test-gpt4o-v6,3,5.666666666666667,0,0.0
+test-gpt4o-v5,4,6.25,0,0.0
+test-gpt4o-v4,2,4.5,0,0.0
+test-gpt4o-v3,3,5.0,0,0.0
+test-gpt4o-v2,2,3.5,0,0.0
+test-gpt4o,2,5.0,0,0.0
+stark-2,17,5.882352941176471,0,0.0
+stark-1,26,4.269230769230769,0,0.0
+social deduction base,21,5.476190476190476,0,0.0
+m5,4,5.5,0,0.0
+m1_p1,2,7.0,0,0.0
+ZeroR-baseline-Qwen-v1,4,4.5,0,0.0
+gemini-2.5-pro,14,6.5,0,0.0
+hehe004.5/qwen-8b,1,5.0,0,0.0
+hehe003/qwen-8b,2,6.0,0,0.0
+google/gemma-3-12b-it,1213,5.694146743610882,0,0.0
+google/gemini-2.0-flash-lite-001,2619,5.495227185948836,0,0.0
+google/gemini-2.0-flash-001,2835,5.495943562610229,0,0.0
+gemini2.5base,17,4.9411764705882355,0,0.0
+gemini2.5,10,5.1,0,0.0
+gemini-2.0-flash-lite,15,4.8,0,0.0
+log_fixer,1,1.0,0,0.0
+baseline,1,6.0,0,0.0
+azure-gpt-5-chat,1,10.0,0,0.0
+agent_baseline_vanila,414,5.041062801932367,0,0.0
+agent_baseline_test1,18,2.5555555555555554,0,0.0
+agent_baseline_8b,71,2.5492957746478875,0,0.0
+ac2c54b1-465b-4d6c-bdc7-aae5b383d862 Mafia,1,2.0,0,0.0
+ZeroR-baseline-social-v1,22,6.090909090909091,0,0.0
+hehe004/qwen-8b,10,6.9,0,0.0
+hehe005.5/qwen-8b,7,4.428571428571429,0,0.0
+hehe005/qwen-8b,12,5.916666666666667,0,0.0
+hehe006/qwen-8b,14,4.857142857142857,0,0.0
+leepokai,2,3.5,0,0.0
+jarvis_v01_track_1,1,5.0,0,0.0
+jarvis_track_testmodal_ydy,1,4.0,0,0.0
+jarvis_track_testmodal1_ydy,2,9.5,0,0.0
+jarvis_track_1_ydy_test1,19,5.105263157894737,0,0.0
+jarvis_track_1_ydy,3,5.666666666666667,0,0.0
+jarvis_qwen3_test_10_3,15,5.266666666666667,0,0.0
+jarvis_qwen3_dpo_105,8,3.875,0,0.0
+jarvis_qwen3_dpo_104,13,3.4615384615384617,0,0.0
+jarvis_qwen3_dpo_103,3,4.0,0,0.0
+jarvis_qwen3-test1,7,4.142857142857143,0,0.0
+jarvis_qwen3-test,5,3.2,0,0.0
+jarvis_qwen3-8b-1,12,4.083333333333333,0,0.0
+jarvis-qwen3-8b-test40,24,4.666666666666667,0,0.0
+jarvis-qwen3-8b-2,5,4.6,0,0.0
+RLGame-M-P-02,191,5.020942408376963,0,0.0
+RLAgent-01,1,7.0,0,0.0
+0823t1-qwen3-8b-v1-lora-0812-3epochs-yt,90,4.8,0,0.0
+DualAgent_Werewolf_Performance_Test,86,5.209302325581396,0,0.0
+External-azurev3,7,6.0,0,0.0
+External-azurev2,1,6.0,0,0.0
+External-azurev1,10,5.4,0,0.0
+External-azure,1,5.0,0,0.0
+External-Vil,6,5.0,0,0.0
+External,8,5.5,0,0.0
+Enhanced Google AI Studio Mafia Agent v2,10,5.9,0,0.0
+Dr.Strange,1,5.0,0,0.0
+Fractal_SecretMafia_Agent_v1,12,5.166666666666667,0,0.0
+Doramamu3,23,5.434782608695652,0,0.0
+Doramamu2,31,4.774193548387097,0,0.0
+DeceptionNet_IL_v1,1,2.0,0,0.0
+Chinese Mafia Agent v1.9,1,4.0,0,0.0
+Chinese Mafia Agent v1.8,1,10.0,0,0.0
+Chinese Mafia Agent v1.7,1,6.0,0,0.0
+Chinese Mafia Agent v1.6,1,5.0,0,0.0
+External-azurev4,11,4.909090909090909,0,0.0
+Fractal_SecretMafia_Agent_v2,2,2.0,0,0.0
+Qwen3_SMAFIA_LoRA,3,5.0,0,0.0
+GPT5_Strategic_v3_ReasonSpeak,1,5.0,0,0.0
+Gemini_Agents,1,6.0,0,0.0
+Gemini_2.5_Flash_with_some_modifies_3,8,6.125,0,0.0
+Gemini_2.5_Flash_with_some_modifies_2,1,10.0,0,0.0
+Gemini_2.5_Flash_with_some_modifies,13,6.3076923076923075,0,0.0
+Gemini_2.5_Flash_PxP_Monitored,16,5.3125,0,0.0
+Gemini_2.5_Flash_PxP,1,4.0,0,0.0
+GPT_LLM_TEST,65,5.553846153846154,0,0.0
+GPT5_Strategic_v2,3,3.3333333333333335,0,0.0
+Fractal_SecretMafia_Agent_v3,7,4.428571428571429,0,0.0
+GPT5_Deception_Master_v6,1,5.0,0,0.0
+GPT5_Alpha_Leader_v7,31,5.161290322580645,0,0.0
+GPT5_Agent_v1,2,5.0,0,0.0
+GPT4.1mini_operational_test/Track-1,1,4.0,0,0.0
+Funk v0.2,1,10.0,0,0.0
+Fractal_SecretMafia_Agent_v6,3,2.3333333333333335,0,0.0
+Fractal_SecretMafia_Agent_v4,1,2.0,0,0.0
+Chinese Mafia Agent v1.5,1,5.0,0,0.0
+Chinese Mafia Agent v1.4,1,5.0,0,0.0
+Chinese Mafia Agent v1.3,1,8.0,0,0.0
+0827t2-gpt4o-yt,10,6.0,0,0.0
+Bathini BG,1,2.0,0,0.0
+Baseline_Gemini_2.5_flash_lite,2,4.0,0,0.0
+Baseline: DeepSeek R1 8B - Track 1,1,5.0,0,0.0
+BG-TEAMM,4,5.5,0,0.0
+Agentv1.0,2,4.5,0,0.0
+0827t2-mg-qwen3-8b-big-dataset-0826-1epochs-yt,171,5.742690058479532,0,0.0
+0827t2-gpt5-yt,4,2.75,0,0.0
+0827t1-qwen3-8b-yt,32,4.90625,0,0.0
+Chinese Mafia Agent v1.2,2,6.5,0,0.0
+0827t1-mg-qwen3-8b-big-dataset-0826-1epochs-yt,5,2.0,0,0.0
+0827t1-gpt5-yt,14,3.7857142857142856,0,0.0
+0827t1-gpt5-chat-yt,22,5.454545454545454,0,0.0
+0826t1-mg-qwen3-8b-big-dataset-0826-1epochs-yt,1,2.0,0,0.0
+0823t1-qwen3-8b-v3-ppo-lora-0823-456-yt,76,5.302631578947368,0,0.0
+0823t1-qwen3-8b-v2-gpt5-distill-lora-0814-3epochs-yt,103,4.728155339805825,0,0.0
+0823t1-qwen3-8b-v2-gpt5-chat-distill-lora-0814-3epochs-yt,116,4.456896551724138,0,0.0
+Bathini GG,1,2.0,0,0.0
+Bathini Multi,1,3.0,0,0.0
+Bathini T1,2,8.5,0,0.0
+Bot_test,1,8.0,0,0.0
+Chinese Mafia Agent v1.15,1,5.0,0,0.0
+Chinese Mafia Agent v1.13,1,5.0,0,0.0
+Chinese Mafia Agent v1.10,1,5.0,0,0.0
+Chinese Mafia Agent v1.1,1,1.0,0,0.0
+Chinese Mafia Agent v1.0,1,6.0,0,0.0
+Breaking Bad LLM agent - Track 1 - Zep7hyr_v5,7,5.714285714285714,0,0.0
+Breaking Bad LLM agent - Track 1 - Zep7hyr_v4,23,5.217391304347826,0,0.0
+Breaking Bad LLM agent - Track 1 - Zep7hyr_v3,10,5.2,0,0.0
+Breaking Bad LLM agent - Track 1 - Zep7hyr_v2,1,2.0,0,0.0
+Breaking Bad LLM agent - Track 1 - Zep7hyr,3,3.0,0,0.0
+Breaking Bad LLM agent - Track 1 - MiL,8,4.625,0,0.0
+Breaking Bad LLM agent - Track 1 - LLAMA,10,4.5,0,0.0
+Breaking Bad LLM agent - Track 1 - EDITH - v2,26,4.384615384615385,0,0.0
+Breaking Bad LLM agent - Track 1 - EDITH,8,6.125,0,0.0
+Breaking Bad LLM,1,4.0,0,0.0
+Gemini_sus,6,7.333333333333333,0,0.0
+Ghost of Perdition,2,4.5,0,0.0
+Google AI Studio Mafia Agent v1,1,10.0,0,0.0
+PsychSkull-5 LLM agent - Track 1,3,4.333333333333333,0,0.0
+Qwen2.5_7B_cccx1,3,3.6666666666666665,0,0.0
+Qwen2.5_7B_SecretMafia_SFT,27,4.296296296296297,0,0.0
+Qwen2.5_7B_Mafia_ccc,3,3.0,0,0.0
+PsychoSkull Test LLM agent - Track 1,1,6.0,0,0.0
+PsychSkull-9 LLM agent - Track 1,1,4.0,0,0.0
+PsychSkull-7 LLM agent - Track 1,4,4.75,0,0.0
+PsychSkull-6 LLM agent - Track 1,1,4.0,0,0.0
+PsychSkull-4 LLM agent - Track 1,2,3.0,0,0.0
+PsychSkull Test LLM agent - Track 1,1,5.0,0,0.0
+PsychSkull-3 LLM agent - Track 1,1,2.0,0,0.0
+PsychSkull-17 Track 1 Open,1,5.0,0,0.0
+PsychSkull-16 Track 1 Open,7,6.714285714285714,0,0.0
+PsychSkull-13 Track 1 Open,1,4.0,0,0.0
+PsychSkull-12 Track 1 Open,1,4.0,0,0.0
+PsychSkull-11 Track 1 Open,1,5.0,0,0.0
+PsychSkull-10 LLM agent - Track 1,1,8.0,0,0.0
+Qwen2.5_7B_cccx2,20,4.75,0,0.0
+Qwen2.5_7B_cxxx1,22,5.545454545454546,0,0.0
+Qwen2.5_7b_cccx3,6,5.333333333333333,0,0.0
+Qwen3-235B-A22B-Instruct-2507-yt-v1-T1,19,4.2105263157894735,0,0.0
+Qwen3_LoRA_ccc,11,5.090909090909091,0,0.0
+Qwen3_8b_cccx8,4,4.5,0,0.0
+Qwen3_8b_cccx7,1,6.0,0,0.0
+Qwen3_8b_cccx6,6,5.666666666666667,0,0.0
+Qwen3_8b_cccx5,4,7.75,0,0.0
+Qwen3_8b_cccx4,1,8.0,0,0.0
+Qwen3_8b_cccx3,2,5.5,0,0.0
+Qwen3_8b_cccx2,3,4.0,0,0.0
+Qwen3_8b_cccx10,2,4.5,0,0.0
+Qwen3_8b_cccx1,3,5.666666666666667,0,0.0
+Qwen3_8b_cccx,17,4.9411764705882355,0,0.0
+Qwen3_8b_ccc,1,5.0,0,0.0
+Qwen3-32B-yt-v1-T1,20,4.15,0,0.0
+Qwen3-235B-A22B-Instruct-2507-yt-v3-T1,582,5.121993127147766,0,0.0
+Qwen3-235B-A22B-Instruct-2507-yt-v2-T1,1,4.0,0,0.0
+PsychSkull test LLM agent - Track 1,3,3.6666666666666665,0,0.0
+PsychSkull G4b LLM agent - Track 1,5,5.4,0,0.0
+Howard,3,3.0,0,0.0
+M5_V1,15,7.6,0,0.0
+MindGames_Pro_Mafia_v2,1,1.0,0,0.0
+MindGames_Pro_Mafia_Reusable,20,4.1,0,0.0
+MindGames_Champion_Gemini_Pro_Reusable,3,2.6666666666666665,0,0.0
+Mafia_Gemini_Balanced,25,5.36,0,0.0
+MafiaMultiAgent LangGraph Gemini - Track 1,5,4.0,0,0.0
+MGC-test-gpt4o,6,5.166666666666667,0,0.0
+M6_V1,39,5.076923076923077,0,0.0
+M4_V1,24,5.833333333333333,0,0.0
+Parwal,1,2.0,0,0.0
+M1_V2,25,5.92,0,0.0
+M0_V1,42,5.5,0,0.0
+Lossfunk v0.2,1,5.0,0,0.0
+Lossfunk v0.03,1,4.0,0,0.0
+Lossfunk v0.0,1,5.0,0,0.0
+In2AI/Baseline,82,5.2926829268292686,0,0.0
+Humanity,43,5.604651162790698,0,0.0
+MindGames_online_pro_mafia_1753747917,1,9.0,0,0.0
+MindGames_online_pro_mafia_1753752319,1,5.0,0,0.0
+Modal,1,4.0,0,0.0
+My Closed Source Agent,2,2.0,0,0.0
+OrderOfPhoenix/jarvis_v3,22,5.363636363636363,0,0.0
+OrderOfPhoenix/jarvis_v2,13,4.230769230769231,0,0.0
+OrderOfPhoenix/jarvis_v1,23,4.434782608695652,0,0.0
+Orca Test 2,2,5.0,0,0.0
+Optimised Lucy-v4,4,2.75,0,0.0
+Optimised Lucy-v3,1,2.0,0,0.0
+Optimised Lucy-v2,1,2.0,0,0.0
+Oona_Oops_V3,90,5.644444444444445,0,0.0
+Oona_Oops_V2,90,5.411111111111111,0,0.0
+Oona_Oops_0828_v1,6,5.333333333333333,0,0.0
+Oona_Oops_0828,6,4.666666666666667,0,0.0
+OdinV001,4,3.0,0,0.0
+Not-sus Persona,2,3.5,0,0.0
+NatureCast_CTMagent_T1_v1,1,9.0,0,0.0
+NLPQuy,4,3.0,0,0.0
+ydy_1,1,4.0,0,0.0
